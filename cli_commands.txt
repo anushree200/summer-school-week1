@@ -1,0 +1,25 @@
+pwd — Outputs the current directory path. Useful for knowing your current location in the file system.
+
+ls -l — Shows detailed information about files, including permissions, owner, size, and modification date.
+
+mkdir test folder — Creates two directories named "test" and "folder" in your current directory.
+
+touch hello.txt — Creates a file named "hello.txt" in the current directory.
+
+rm hello.txt — Deletes the file "hello.txt" from the current directory.
+
+chmod +x filename.sh — Grants execute permission to the file "filename.sh", allowing it to be executed as a script.
+
+git init — Sets up a new Git repository in your current directory.
+
+git status — Shows the current state of the files in your Git repository, including tracked, untracked, and modified files.
+
+git add . — Stages all changes in the current directory for the next commit.
+
+git commit -m "Initial commit" — Records staged changes to the Git repository with a commit message "Initial commit".
+
+git push origin main — Pushes committed changes from your local Git repository to the remote repository (typically on GitHub) branch named "main".
+
+git checkout -b new-feature — Creates a new branch named "new-feature" and switches to it.
+
+code . — Launches the Visual Studio Code editor
